@@ -1,5 +1,5 @@
-bikes = ['Chopper', 'Harley-Davidson', 'Bobber']
-trucks = ['Ford Maverick', 'Hyundai Santa Cruz', 'Chevrolet Colorado']
+bikes = ['Honda', 'Harley', 'Ducati']
+trucks = ['Ford', 'Hyundai', 'Chevy']
 
 
 class Vehicle:
